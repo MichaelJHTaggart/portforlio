@@ -6,6 +6,11 @@ function App() {
     <div>
       <h1>Michael's Portfolio</h1>
     </div>
+
+    <ul>
+      <li>Projects</li>
+    </ul>
+
   );
 }
 
