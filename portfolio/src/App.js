@@ -8,7 +8,7 @@ function App() {
     </div>
 
     <ul>
-      <li>Projects</li>
+      <li>Projects T</li>
     </ul>
 
   );
