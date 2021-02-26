@@ -1,18 +1,37 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-  <div>
+    <section>
+      <div>
+        <div>
+          <h2>Time Management</h2>
+          <p>Managing time is important in every business. Once you create an account you will be able to track your time
+          for each project that you start! Don't forget to name each project!</p>
+          <div> <a href="https://www.handlewhile.com" aria-label="Check out the website!">Try it out</a></div>
+        </div>
+      </div>::before
+      <div>
+        <img alt="" class="" src="">
+    </div>::after
+  </section>
+
+      <section>
+        <div>
+          <div>
+            <h2>Property Management</h2>
+            <p>This website provides a one-stop experience for property managers and tenants. It is built to add and resolve
+            maintenance requests, payments, and to manage properties. The manager view and the tenant view are similar
+          experiences but are two different views.</p>
+            <div> <a href="https://www.lemonprop.com" aria-label="Check out the website!">Try it out</a></div>
+          </div>
+        </div>
+    ::before
     <div>
-      <h1>Michael's Portfolio</h1>
+          <img alt="" class="" src="">
     </div>
-
-    <ul>
-      <li>Projects T</li>
-    </ul>
-
-  </div>
+    ::after
+  </section>
   );
 }
 
