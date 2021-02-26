@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
   return (
+  <div>
     <div>
       <h1>Michael's Portfolio</h1>
     </div>
@@ -11,6 +12,7 @@ function App() {
       <li>Projects T</li>
     </ul>
 
+  </div>
   );
 }
 
