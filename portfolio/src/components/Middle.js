@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './App.css';
 
 const Middle = props => {
- const [isMenuOpen, setIsMenuOpen] = useState(false)
+
 
 
  return (
